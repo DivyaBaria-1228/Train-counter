@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+main{
+    background-image: url(https://wallpaperaccess.com/full/1457259.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+section{
+    background-color: white;
+    border-radius: 5px;
+    padding: 4rem;
+
+}
